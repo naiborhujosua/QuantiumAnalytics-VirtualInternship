@@ -61,6 +61,6 @@ The main findings of the code can be found at the post available on my medium [h
 #### Trial Store of total Sales over Control Store
 ![Final Comparison](https://github.com/naiborhujosua/QuantiumAnalytics-VirtualInternship/blob/main/trial_store_performance.png)
 
-## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+## Data Availability
 
-Credited to Kaggle for availability of the data. You can find the License for the data and other descriptive information in the Kaggle available [here](https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh). Otherwise, feel free to use the code here as you would like! 
+Credited to Quantium Analytics for availability of the data. You can find the License for the data and other descriptive information in [Virtual Internship Program ](https://www.theforage.com/virtual-internships/NkaC7knWtjSbi6aYv?ref=PFRxbADb5emG73ZYp). The code is licensed by  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
