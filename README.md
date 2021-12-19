@@ -1,4 +1,6 @@
-<img src="http://cliparts.co/cliparts/6iy/oBb/6iyoBbdpT.gif"/>
+<p align="center">
+<img src="http://www.goldbeck.com/hrblog/wp-content/uploads/2015/11/giphy-3.gif"/>
+</p>
 
 ###  Data Analytics Virtual Experience Program
 
