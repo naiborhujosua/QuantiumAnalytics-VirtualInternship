@@ -34,7 +34,7 @@ I was interested in supermarket sectors as part of supply chain to help marketer
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available on my medium [here](https://medium.com/@naiborhujosua/predicting-airfare-price-using-machine-learning-techniques-bf3a13ad07d1).
+The main findings of the code can be found at the post available on my medium [here](https://naiborhujosua.medium.com/understanding-quantium-analytics-data-to-discover-trends-of-chips-category-b3db7a0418bb).
 
 ## 3. Exploratory Data Analysis
 
